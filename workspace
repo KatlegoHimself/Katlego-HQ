@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "daa540fc77bed909",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e39a39d10a54e7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Coaching Audit of June 2021.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13c762a56e5f79ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b4a0ca8359d35cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "398e30366fbe70d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "056ca2276e533d02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de424fb4c4d75c13",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1372eaa8aef52ec1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a61fcc4c9f9dabcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce003acf6927d1a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fab196fa3e535b14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Coaching Audit of June 2021.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a75891b35d4312f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ebce193f1b10e773",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3029e2d00dcf47d2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "beca75ec8e9e6fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Coaching Audit of June 2021.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "37ec4ee370429468",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "652485b3e33e4e4c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Coaching Audit of June 2021.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7e39a39d10a54e7d",
+  "lastOpenFiles": [
+    "Coaching Audit of June 2021.md",
+    "Untitled.md",
+    "Test Note.md",
+    "The Arigato Money.md",
+    "Developer Edition org with Salesforce CPQ.md",
+    "SCRIPTURE STUDY/Scripture Study - July 15, 2021.md",
+    "GROWTH & DEVELOPMENT/My Mantra as a Lawyer.md",
+    "To Do.md",
+    "SCRIPTURE STUDY/Satan’s Expulsion for Heaven.md",
+    "1 Nephi 6.md"
+  ]
+}
